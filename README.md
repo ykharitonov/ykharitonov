@@ -1,6 +1,6 @@
 Coder | C & JavaScript enjoyer
 
-Привет! 👋 I’m Yulian or Julian (Юлиан), some guy from Russia who likes to write code in C and JavaScript (and sometimes suffer because of it, but it’s fine). I do low-level stuff in C when I feel smart, and then switch to JavaScript when I want to make shiny things on the web. Balance, right? )
+Hello Привет! 👋 I’m Yulian or Julian (Юлиан), some guy from Russia who likes to write code in C and JavaScript (and sometimes suffer because of it, but it’s fine). I do low-level stuff in C when I feel smart, and then switch to JavaScript when I want to make shiny things on the web. Balance, right? )
 
 On GitHub, I mostly upload my experiments, half-finished projects, and things I do to avoid doing real work. But hey, maybe someone will find them useful (or at least funny). I like open-source because it’s like sharing your homework with the whole world, but cooler.
 
